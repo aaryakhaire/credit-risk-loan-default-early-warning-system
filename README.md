@@ -150,4 +150,4 @@ The API will be live at `http://127.0.0.1:8000`. Open `frontend/index.html` dire
 ## Author
 
 Aarya Khaire — B.E. Information Technology, Vidyalankar Institute of Technology
-[GitHub](https://github.com/aaryakhaire) · [LinkedIn](https://github.com/aaryakhaire)
+[GitHub](https://github.com/aaryakhaire) · [LinkedIn](www.linkedin.com/in/aarya-khaire-b4a53728a)
