@@ -4,7 +4,7 @@
 
 🔗 **Live dashboard:** [credit-risk-loan-default-early-warn.vercel.app](https://credit-risk-loan-default-early-warn.vercel.app)
 🔗 **API:** [credit-risk-loan-default-early-warning.onrender.com](https://credit-risk-loan-default-early-warning.onrender.com)
-📊 **Dataset:** [Home Credit Default Risk (Kaggle)](https://www.kaggle.com/c/home-credit-default-risk)
+ **Dataset:** [Home Credit Default Risk (Kaggle)](https://www.kaggle.com/c/home-credit-default-risk)
 
 > Note: the backend runs on Render's free tier, which spins down after ~15 minutes of inactivity. The first request after idle time may take 30–60 seconds to respond while the server wakes up.
 
